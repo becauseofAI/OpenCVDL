@@ -4,3 +4,9 @@
 
 # Dynamic plugins .dll
 bin/
+
+# Visual Studio
+x64/
+
+# Caffe
+*.caffemodel
