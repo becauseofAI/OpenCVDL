@@ -54,9 +54,14 @@ python openpose.py
 ```C++
 openpose.cpp //Build it in Visual Studio
 ```
-
+## TODO
+- [x] OpenPose
+- [ ] Mask RCNN
+- [ ] Neural Style Transfer
+- [ ] Segmentation
+- [ ] Object Detection
+- [ ] Edge Detection
+- [ ] Text Detection
+- [ ] on the way
 ## Others
 :octocat:All you need is to **Star** and **Follow** me.
-
-
-
