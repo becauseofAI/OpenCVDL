@@ -42,10 +42,10 @@ opencv_world400d.lib // Debug x64
 opencv_world400.lib // Release x64
 ```
 ## Now Enjoy
-### OpenPose
 ```
 git clone --recursive https://github.com/becauseofAI/OpenCVDL.git
 ```
+### OpenPose
 To download the ```caffemodel``` from [here](https://github.com/becauseofAI/OpenCVDL/blob/master/windows/cpp/openpose/openpose.cpp#L5) and then put it in the directory of ```model/caffe/openpose/```.  
 Now play as follow:
 ```python
